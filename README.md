@@ -4,7 +4,7 @@
 
 ## Sub commands:
 
-**raffle** - Enter the raffle, adds username to the role.
+**!raffle** - Enter the raffle, adds username to the role.
 
 **!raffle start** - Clears the role and opens the raffle.
 
