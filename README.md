@@ -1,4 +1,4 @@
-# Giveaway command
+# Raffle command
 
 !raffle is a command that users can use to enter a simple raffle.
 
